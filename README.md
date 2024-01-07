@@ -14,7 +14,7 @@
 В нем уже настроен конфиг, подготовлен шаблон для базового html и прочие мелочи. <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gecoste&repo=Django-Shablon)](https://github.com/Gecoste/Django-Shablon)
 
-🌱 Мои достижения на платформе LeetCode:
+🌱 Мои достижения на платформе LeetCode: <br />
 [![Gecoste stats](https://leetcode-stats-six.vercel.app/api?username=Gecoste&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 🔭 Мои достижения на платформе github:
