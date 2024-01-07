@@ -1,5 +1,5 @@
 ### Приветствую на моей страничке GitHub 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%8b00ff&lines=Я+разработчик+Gecoste+Studio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#b966ff&lines=Я+разработчик+Gecoste+Studio)](https://git.io/typing-svg)
 
 Я пишу чат-ботов, нейронные сети, сайты, приложения и игры:
 
