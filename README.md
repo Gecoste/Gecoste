@@ -3,7 +3,7 @@
 
 
 🔭 Мои достижения на платформе github:
-[![trophy](https://github-profile-trophy.vercel.app/?username=)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gecoste)](https://github.com/Gecoste/github-profile-trophy)
 
 <!--
 **Gecoste/Gecoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
