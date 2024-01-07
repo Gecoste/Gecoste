@@ -1,6 +1,7 @@
 ### Приветствую на моей страничке GitHub 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b966ff&lines=Я+разработчик+Gecoste+Studio)](https://git.io/typing-svg)
-
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b966ff&lines=Я+разработчик+Gecoste+Studio)](https://git.io/typing-svg)
+</p>
 <p align="center">
   <img src='https://github.com/Gecoste/Gecoste/blob/main/assets/hender.gif'>
 </p>
