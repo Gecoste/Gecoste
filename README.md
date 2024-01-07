@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b966ff&lines=Я+разработчик+Gecoste+Studio)](https://git.io/typing-svg)
 
 <p align="center">
-[gif](https://github.com/Gecoste/Gecoste/blob/main/assets/hender.gif)
+  <img href='https://github.com/Gecoste/Gecoste/blob/main/assets/hender.gif'>
 </p>
 
 Обо мне: <br />
