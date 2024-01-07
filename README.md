@@ -1,7 +1,7 @@
 ### Приветствую на моей страничке GitHub 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+разработчик+Gecoste+Studio)](https://git.io/typing-svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gecoste&repo=BotTelegram_Assistent)](https://github.com/anuraghazra/BotTelegram_Assistent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gecoste&repo=BotTelegram_Assistent)](https://github.com/Gecoste/BotTelegram_Assistent)
 
 
 🔭 Мои достижения на платформе github:
