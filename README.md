@@ -10,7 +10,7 @@
 - ⚡ Интересный факт - Программированием я занялся в июле 2021 года <br />
   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gecoste&repo=BotTelegram_Assistent)](https://github.com/Gecoste/BotTelegram_Asisstent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gecoste&repo=Django-Shablon)](https://github.com/Gecoste/Django-Shablon)
 
 
 🔭 Мои достижения на платформе github:
