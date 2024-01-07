@@ -1,7 +1,10 @@
-### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+### Приветствею на моей страничке GitHub 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+разработчик+Gecoste+Studio)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+разработчик+,+который+изучает+Python+JavaScript+C+и+многие+другие+языки)](https://git.io/typing-svg)
+
+🔭 Мои достижения на платформе github:
+[![trophy](https://github-profile-trophy.vercel.app/?username=)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Gecoste/Gecoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
