@@ -10,7 +10,8 @@
 - ⚡ Интересный факт - Программированием я занялся в июле 2021 года <br />
   
 Один из моих репозиториев, готовый шаблон для написания сайта на Django: <br />
-- В нем уже настроен конфиг, подготовлен шаблон для базового html и прочие мелочи. <br />
+
+В нем уже настроен конфиг, подготовлен шаблон для базового html и прочие мелочи. <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gecoste&repo=Django-Shablon)](https://github.com/Gecoste/Django-Shablon)
 
 
