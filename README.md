@@ -1,6 +1,10 @@
 ### Приветствую на моей страничке GitHub 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%b966ff&lines=Я+разработчик+Gecoste+Studio)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 Русский разработчик 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 Обо мне: <br />
 Я пишу чат-ботов, нейронные сети, сайты, приложения и игры:
 
